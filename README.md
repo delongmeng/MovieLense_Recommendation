@@ -7,3 +7,6 @@ In this project, I will combine several machine learning strategies to construct
 The full MovieLens dataset, which can be found here: https://grouplens.org/datasets/movielens/latest/, is rather large. 
 To make the computation easier, in this project I use the "10M" version of MovieLens dataset instead (https://grouplens.org/datasets/movielens/10m/). 
 This 10M MovieLens dataset has around 10 million ratings and 100,000 tag applications applied to 10,000 movies by 72,000 users.
+
+
+The html version of the report can also be viewed at: http://rpubs.com/delongmeng/557151 .
