@@ -1,5 +1,5 @@
-# HarvardX_Capstone_MovieLense
-R Script, R markdown, and pdf report of the HarvardX Data Science Certificate Capstone MovieLense project.
+# MovieLense Recommendation System
+R Script, R markdown, and pdf report of the MovieLense project.
 
 Recommendation system represents a classical application of machine learning technology. 
 For example, for a movie recommendation system, the goal is to predict how a given user will rate a specific movie based on how the user rate other movies and how the movie is rated by other users. 
