@@ -9,4 +9,4 @@ To make the computation easier, in this project I use the "10M" version of Movie
 This 10M MovieLens dataset has around 10 million ratings and 100,000 tag applications applied to 10,000 movies by 72,000 users.
 
 
-The html version of the report can also be viewed at: http://rpubs.com/delongmeng/557151 .
+The html version of the report can also be viewed [here](http://htmlpreview.github.io/?https://github.com/delongmeng/MovieLense_Recommendation/blob/master/DM_MovieLens.html).
