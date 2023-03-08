@@ -16,4 +16,4 @@ In Part 1 (the report: [MovieLens_MF.html](http://htmlpreview.github.io/?https:/
 In Part 2 (the report: [MovieLens_recommenderlab.html](http://htmlpreview.github.io/?https://github.com/delongmeng/MovieLense_Recommendation/blob/master/MovieLens_recommenderlab.html)), we
 - Analylized top movies  
 - Tried User-based collaborative filtering (UBCF) and Item-based collaborative filtering (IBCF) algorithms using the `recommenderlab` R package
-- Build a Shiny (web application)[https://chengwei112.shinyapps.io/MovieRecommend/] to recommend movies to users providing 2 methods (general top movies or user-based recommendations)
+- Built a Shiny [web application](https://chengwei112.shinyapps.io/MovieRecommend/) to recommend movies to users based on 2 different strategies (general top movies or user-based recommendations)
